@@ -1,1 +1,1 @@
-# alx-pre_course
+0x07-pointers_arrays_strings
